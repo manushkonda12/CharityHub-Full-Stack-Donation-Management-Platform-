@@ -113,10 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who helped shape this project
 - Special recognition for the open-source community
 - Inspiration from various donation management platforms
-
----
-
-⭐ **If you found this project helpful, please give it a star on GitHub!**
